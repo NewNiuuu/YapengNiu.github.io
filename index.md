@@ -4,12 +4,16 @@ title: Home
 permalink: /
 ---
 
-Welcome to my academic website!
+# Yapeng Niu
 
-I am a recent B.E. graduate in Software Engineering from Beijing University of Posts and Telecommunications (BUPT).  
-My research interests lie at the intersection of **Reinforcement Learning (RL)** and **Large Language Model (LLM) Agents**, particularly in:
-- Structured decision-making under constraints
-- Action decomposition and policy optimization
-- Test-time enhancement and inference robustness of multimodal models
+Recent B.E. graduate in **Software Engineering** from **Beijing University of Posts and Telecommunications (BUPT)**.  
+Passionate about **Reinforcement Learning (RL)** and **Large Language Model (LLM) Agents**, with hands-on experience in model inference, multimodal enhancement, and sequential decision-making.
 
-Please visit the [About](/about/) page for more details.
+🔍 **Research Interests**:  
+- Policy optimization for LLM-based agents  
+- Action decomposition in high-dimensional spaces  
+- Test-time adaptation and robust inference  
+
+I am actively seeking **Master’s-level research opportunities** to contribute to the development of autonomous, reasoning-capable AI systems.
+
+📄 [About Me](/about/) | 📚 [Publications](/publications/) | 🧪 [Projects](/projects/)
