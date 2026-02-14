@@ -1,30 +1,45 @@
 ---
-layout: page
+layout: about
+permalink: /
 title: Yapeng Niu
-permalink: /  # ← 关键：让 about.md 成为首页
+subtitle: B.E. in Software Engineering · BUPT · RL & LLM Agents
 profile:
-  image: prof_pic.jpg  # ← 头像文件名，放在 assets/img/
-  address: "555 Office Number, BUPT, Beijing"
+  align: left
+  image: prof_pic.jpg
+  address: "Beijing University of Posts and Telecommunications, Beijing"
   email: 2325088522@qq.com
-  phone: "+86 1234567890"  # 可选
   links:
     - name: GitHub
       url: https://github.com/newniuuu
     - name: LinkedIn
-      url: https://linkedin.com/in/yapengniu  # 可选
-    - name: Google Scholar
-      url: https://scholar.google.com/citations?user=...  # 可选
+      url: https://linkedin.com/in/yapengniu
+social: true
+# 有真实动态与论文后可开启：
+# announcements:
+#   enabled: true
+# selected_papers:
+#   - your_bib_key
 ---
 
-I am a recent B.E. graduate in **Software Engineering** from **Beijing University of Posts and Telecommunications (BUPT)**.
+I am a recent **B.E. graduate in Software Engineering** from **Beijing University of Posts and Telecommunications (BUPT)**. I am interested in **reinforcement learning** and **LLM-based agents**, and I am looking for Master's or Ph.D. research opportunities in these areas.
 
-My research interests lie at the intersection of **Reinforcement Learning (RL)** and **Large Language Model (LLM) Agents**, particularly in:
-- Structured decision-making under constraints
-- Action decomposition and policy optimization
-- Test-time enhancement and inference robustness of multimodal models
+---
 
-During my undergraduate studies, I systematically explored foundational deep learning architectures (e.g., ResNet, Transformer) and engaged in collaborative research with the **Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)**, focusing on neural model inference latency, memory efficiency, and accuracy trade-offs.
+### Research Interests
 
-My undergraduate thesis investigated **test-time enhancement strategies for multimodal large models**, which sparked my interest in how models make sequential decisions in complex environments — a problem naturally addressed by reinforcement learning.
+- **Reinforcement Learning** — policy optimization, structured decision-making under constraints, action decomposition
+- **LLM-based Agents** — sequential decision-making, test-time enhancement, inference robustness of multimodal models
+- **Robust Sequential Decision-Making** — reliability and generalization of agent behavior in complex environments
 
-I plan to pursue a Ph.D. in the long term and am currently seeking **Master’s-level research opportunities** to deepen my expertise in RL-driven agent systems and contribute to advancing autonomous decision-making in AI.
+---
+
+### Experience
+
+- **Undergraduate research** with the **Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)** on neural model inference: latency, memory efficiency, and accuracy trade-offs.
+- **Bachelor thesis**: test-time enhancement strategies for multimodal large models, which led to my current focus on how models make sequential decisions — a problem I approach through reinforcement learning.
+
+---
+
+### Goal
+
+I plan to pursue a **Ph.D.** in the long term. I am currently seeking **Master's-level research opportunities** to deepen my work on **RL-driven agent systems** and contribute to more capable and robust autonomous decision-making in AI.

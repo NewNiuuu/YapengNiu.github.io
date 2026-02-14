@@ -2,15 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: ""
+title: ""  # 留空时导航栏显示 first_name + last_name
 first_name: Yapeng
 middle_name: ""
 last_name: Niu
 contact_note: >
-  I'm a recent graduate seeking research opportunities in Reinforcement Learning and LLM-based Agents.
+  Seeking Master's/Ph.D. research opportunities in Reinforcement Learning and LLM-based Agents. Open to collaborations.
 description: >
-  Recent B.E. graduate in Software Engineering from Beijing University of Posts and Telecommunications (BUPT). 
-  Passionate about reinforcement learning, large language model agents, and robust sequential decision-making.
+  B.E. in Software Engineering (BUPT). Research interests: reinforcement learning, LLM agents, and robust sequential decision-making.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords: reinforcement learning, LLM agents, AI, master student, BUPT
@@ -90,8 +89,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Blog
+blog_description: Notes and updates on RL, LLM agents, and research.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -278,8 +277,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [XXX] # Please replace with your real name
-  first_name: [XXX] # Please replace with your real name
+  last_name: [Niu]
+  first_name: [Yapeng]
 
   style: apa
   locale: en
